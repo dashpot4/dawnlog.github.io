@@ -1,2 +1,2 @@
 # dawnlog.github.io
-Logs filed at deep dawn.
+Logs being filed at deep dawn.
